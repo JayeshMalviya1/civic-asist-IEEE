@@ -91,6 +91,9 @@ This project aims to break barriers and simplify how citizens engage with govern
 Check out the repo for code, setup instructions, and feature roadmap.  
 Questions or feedback? [Open an issue](https://github.com/2wizArd9)!
 
+📂 **Full Demo Files & Videos:**  
+[View on Google Drive](https://drive.google.com/drive/folders/1QrdTOJAOYM0nLGuYqpui9LoPNnLfxNGI?usp=sharing)
+
 
 <p align="center">
   <strong>“Civic Access for All”</strong><br>
